@@ -7,6 +7,21 @@ body {
    background-color:#7FDBFF;
    margin: 40px;
    text-align: center;
-   
+}
+
+#buttons {
+   margin: 40px;
+   text-align: center;
+   padding: 10px 20px;
+}
+
+#gif-holder {
+   max-width: 100%;
+   height: auto;
+}
+
+#search-bar {
+   text-align: center;
+   padding: 30px 30px;
 }
 
